@@ -19,8 +19,8 @@
         "source": "https://github.com/mpociot/laravel-firebase-sync"
     },
     "require": {
-        "php": ">=5.4.0",
-        "illuminate/support": "~5.0",
+        "php": "^8.1",
+        "illuminate/support": "^5.0",
         "ktamas77/firebase-php": "^2.2"
     },
     "require-dev": {
@@ -36,6 +36,11 @@
     "autoload-dev": {
         "psr-4": {
             "Mpociot\\Firebase\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
         }
     }
 }
