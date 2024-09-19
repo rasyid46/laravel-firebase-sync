@@ -22,7 +22,7 @@ In order to add Laravel Firebase Sync to your project, just add
 
 to your composer.json. Then run `composer install` or `composer update`.
 
-Or run `composer require mpociot/laravel-firebase-sync ` if you prefer that.
+Or run `composer require rasyid46/laravel-firebase-sync ` if you prefer that.
 
 
 <a name="usage" />
