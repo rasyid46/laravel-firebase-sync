@@ -1,5 +1,5 @@
 {
-    "name": "mpociot/laravel-firebase-sync",
+    "name": "rasyid46/laravel-firebase-sync",
     "license": "MIT",
     "description": "Synchronize your Eloquent models with a Firebase realtime database.",
     "keywords": [
@@ -15,8 +15,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/mpociot/laravel-firebase-sync/issues",
-        "source": "https://github.com/mpociot/laravel-firebase-sync"
+        "issues": "https://github.com/rasyid46/laravel-firebase-sync/issues",
+        "source": "https://github.com/rasyid46/laravel-firebase-sync"
     },
     "require": {
         "php": "^8.1",
